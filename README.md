@@ -36,6 +36,10 @@ x1 [REES52 Bluetooth Transceiver Module HC05](https://images-na.ssl-images-amazo
 |Output 2 +   |  Motor3 + & Motor4 -|
 |Output 2 -   |  Motor3 - & Motor4 +|
 
+|Battery      |  Component|
+| :---:       |  :---:    |
+|Battery 9v   |  Arduino Power Port|
+|Battery 4v x3 connect together in serie to create 12v          |     L298n 12v Port & GND|
 ## Software
 ```
 Step 1 : Upload Required Library to Arduino IDE Library Folder
