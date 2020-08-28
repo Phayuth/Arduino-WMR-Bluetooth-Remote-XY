@@ -1,6 +1,6 @@
 # Arduino-WMR-Bluetooth-Remote-XY
 Control-WMR-Bluetooth
-
+![](https://github.com/s1mpleton/Arduino-WMR-Bluetooth-Remote-XY/blob/master/WMR.jpg)
 ## Hardware
 Main Component
 
