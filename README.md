@@ -20,7 +20,7 @@ x1 [REES52 Bluetooth Transceiver Module HC05](https://images-na.ssl-images-amazo
 |7            |        In2|
 |5            |        In3|
 |4            |        In4|
-|             |        EnB|
+|3            |        EnB|
 
 |Arduino_pin  |    HC5_pin|
 | :---:       |  :---:    |
