@@ -43,7 +43,7 @@ x1 [REES52 Bluetooth Transceiver Module HC05](https://images-na.ssl-images-amazo
 ## Software
 ```
 Step 1 : Upload Required Library to Arduino IDE Library Folder
-Step 2 : Upload Arduino_WMR_Bluetooth_Remote_XY
+Step 2 : Upload Arduino_WMR_Bluetooth_Remote_XY.ino to Arduino
 ```
 ## Initiate Stage
 ```
