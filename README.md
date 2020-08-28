@@ -16,10 +16,10 @@ x1 [REES52 Bluetooth Transceiver Module HC05](https://images-na.ssl-images-amazo
 | Arduino_pin | L298n_pin |
 | :---:       |     :---: |
 |A0           |        EnA|
-|             |        In1|
-|             |        In2|
-|             |        In3|
-|             |        In4|
+|8            |        In1|
+|7            |        In2|
+|5            |        In3|
+|4            |        In4|
 |             |        EnB|
 
 |Arduino_pin  |    HC5_pin|
@@ -42,7 +42,7 @@ x1 [REES52 Bluetooth Transceiver Module HC05](https://images-na.ssl-images-amazo
 |Battery 4v x3 connect together in serie to create 12v          |     L298n 12v Port & GND|
 ## Software
 ```
-Step 1 : Upload Required Library to Arduino IDE Library Folder
+Step 1 : Upload RemoteXY.zip Library to Arduino IDE Library Folder
 Step 2 : Upload Arduino_WMR_Bluetooth_Remote_XY.ino to Arduino
 ```
 ## Initiate Stage
@@ -53,4 +53,4 @@ Step 3 : Open RemoteXY app on Smartphone
 Step 4 : Connect to Bluetooth Device with password 1234
 Step 5 : Have Fun :)
 ```
-Acknowledgement : Dronebot Workshop,Song,Vanyi
+Acknowledgement : RemoteXY,Dronebot Workshop,Song,Vanyi
