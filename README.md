@@ -26,7 +26,7 @@ x1 [REES52 Bluetooth Transceiver Module HC05](https://images-na.ssl-images-amazo
 | :---:       |  :---:    |
 |TX           |         RX|
 |RX           |         TX|
-|3.3v         |        VCC|
+|3.3v or 5v   |        VCC|
 |GND          |        GND|
 
 |L298n_pin    |  Motor_pin|
@@ -43,7 +43,7 @@ x1 [REES52 Bluetooth Transceiver Module HC05](https://images-na.ssl-images-amazo
 ## Software
 ```
 Step 1 : Upload RemoteXY.zip Library to Arduino IDE Library Folder
-Step 2 : Upload Arduino_WMR_Bluetooth_Remote_XY.ino to Arduino
+Step 2 : Upload Remote Controller Remote_Vx.ino into the Arduino
 ```
 ## Initiate Stage
 ```
