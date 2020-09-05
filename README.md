@@ -12,7 +12,7 @@ x1 [Battery 9v](https://images-na.ssl-images-amazon.com/images/I/61HWb-9fu5L._SL
 x1 [REES52 Bluetooth Transceiver Module HC05](https://images-na.ssl-images-amazon.com/images/I/61hSbYc%2BXeL._SL1100_.jpg)
 
 ## Connection
-
+![](https://github.com/s1mpleton/Arduino-WMR-Bluetooth-Remote-XY/blob/master/Diagram.png?raw=true)
 | Arduino_pin | L298n_pin |
 | :---:       |     :---: |
 |A0           |        EnA|
@@ -21,6 +21,7 @@ x1 [REES52 Bluetooth Transceiver Module HC05](https://images-na.ssl-images-amazo
 |5            |        In3|
 |4            |        In4|
 |3            |        EnB|
+|GND          |        GND|
 
 |Arduino_pin  |    HC5_pin|
 | :---:       |  :---:    |
