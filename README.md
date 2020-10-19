@@ -54,4 +54,3 @@ Step 3 : Open RemoteXY app on Smartphone
 Step 4 : Connect to Bluetooth Device with password 1234
 Step 5 : Have Fun :)
 ```
-Acknowledgement : RemoteXY,Dronebot Workshop,Song,Vanyi
