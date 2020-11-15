@@ -52,5 +52,5 @@ Step 1 : Connect 5v Battery to Power Jack Port of Arduino UNO
 Step 2 : Connect 12v Battery to Power Jack Port of Motor Driver
 Step 3 : Open RemoteXY app on Smartphone
 Step 4 : Connect to Bluetooth Device with password 1234
-Step 5 : Have Fun :)
 ```
+#### All Set. Have fun learning.
